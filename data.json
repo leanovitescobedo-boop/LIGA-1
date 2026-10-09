@@ -1,9 +1,7 @@
 {
-  "updated": "2026-10-09T14:40:00-05:00",
-  "source": "https://www.futbolperuano.com/liga-1/",
   "clausura": [
     {
-      "club": "Garcilaso",
+      "club": "Deportivo Garcilaso Garcilaso",
       "pts": 22,
       "pj": 10,
       "g": 7,
@@ -14,7 +12,7 @@
       "dif": 12
     },
     {
-      "club": "Universitario",
+      "club": "Universitario de Deportes Universitario",
       "pts": 20,
       "pj": 10,
       "g": 6,
@@ -25,7 +23,7 @@
       "dif": 3
     },
     {
-      "club": "Cristal",
+      "club": "Sporting Cristal Cristal",
       "pts": 19,
       "pj": 10,
       "g": 6,
@@ -36,7 +34,7 @@
       "dif": 10
     },
     {
-      "club": "A. Atlético",
+      "club": "Alianza Atlético A. Atlético",
       "pts": 19,
       "pj": 10,
       "g": 6,
@@ -47,7 +45,7 @@
       "dif": 3
     },
     {
-      "club": "S. Huancayo",
+      "club": "Sport Huancayo S. Huancayo",
       "pts": 19,
       "pj": 10,
       "g": 6,
@@ -58,7 +56,7 @@
       "dif": 3
     },
     {
-      "club": "Juan Pablo II",
+      "club": "Juan Pablo II Juan Pablo II",
       "pts": 18,
       "pj": 10,
       "g": 5,
@@ -69,7 +67,7 @@
       "dif": 8
     },
     {
-      "club": "Melgar",
+      "club": "FBC Melgar Melgar",
       "pts": 18,
       "pj": 10,
       "g": 5,
@@ -80,7 +78,7 @@
       "dif": 7
     },
     {
-      "club": "Boys",
+      "club": "Sport Boys Boys",
       "pts": 18,
       "pj": 10,
       "g": 5,
@@ -91,7 +89,7 @@
       "dif": 7
     },
     {
-      "club": "Cusco FC",
+      "club": "Cusco Fútbol Club Cusco FC",
       "pts": 18,
       "pj": 10,
       "g": 6,
@@ -102,7 +100,7 @@
       "dif": 5
     },
     {
-      "club": "Grau",
+      "club": "Atlético Grau Grau",
       "pts": 17,
       "pj": 11,
       "g": 5,
@@ -113,7 +111,7 @@
       "dif": 1
     },
     {
-      "club": "Alianza Lima",
+      "club": "Alianza Lima Alianza Lima",
       "pts": 16,
       "pj": 10,
       "g": 4,
@@ -124,7 +122,7 @@
       "dif": 4
     },
     {
-      "club": "Cienciano",
+      "club": "Cienciano Cienciano",
       "pts": 11,
       "pj": 11,
       "g": 3,
@@ -135,7 +133,7 @@
       "dif": -4
     },
     {
-      "club": "FC Cajamarca",
+      "club": "FC Cajamarca FC Cajamarca",
       "pts": 10,
       "pj": 10,
       "g": 3,
@@ -146,7 +144,7 @@
       "dif": -6
     },
     {
-      "club": "Comerciantes",
+      "club": "Comerciantes Unidos Comerciantes",
       "pts": 9,
       "pj": 10,
       "g": 2,
@@ -157,7 +155,7 @@
       "dif": -1
     },
     {
-      "club": "Los Chankas",
+      "club": "Los Chankas Los Chankas",
       "pts": 9,
       "pj": 11,
       "g": 2,
@@ -168,7 +166,7 @@
       "dif": -13
     },
     {
-      "club": "D. Moquegua",
+      "club": "Deportivo Moquegua D. Moquegua",
       "pts": 7,
       "pj": 11,
       "g": 1,
@@ -179,7 +177,7 @@
       "dif": -12
     },
     {
-      "club": "ADT",
+      "club": "ADT Tarma ADT",
       "pts": 5,
       "pj": 10,
       "g": 1,
@@ -190,7 +188,7 @@
       "dif": -14
     },
     {
-      "club": "UTC",
+      "club": "UTC Cajamarca UTC",
       "pts": 2,
       "pj": 10,
       "g": 0,
@@ -203,7 +201,7 @@
   ],
   "acumulado": [
     {
-      "club": "Alianza Lima",
+      "club": "Alianza Lima Alianza Lima",
       "pts": 56,
       "pj": 27,
       "g": 16,
@@ -214,7 +212,7 @@
       "dif": 26
     },
     {
-      "club": "Universitario",
+      "club": "Universitario de Deportes Universitario",
       "pts": 49,
       "pj": 27,
       "g": 14,
@@ -225,7 +223,7 @@
       "dif": 12
     },
     {
-      "club": "Garcilaso",
+      "club": "Deportivo Garcilaso Garcilaso",
       "pts": 48,
       "pj": 27,
       "g": 14,
@@ -236,7 +234,7 @@
       "dif": 15
     },
     {
-      "club": "Melgar",
+      "club": "FBC Melgar Melgar",
       "pts": 46,
       "pj": 27,
       "g": 13,
@@ -247,7 +245,7 @@
       "dif": 16
     },
     {
-      "club": "Cusco FC",
+      "club": "Cusco Fútbol Club Cusco FC",
       "pts": 45,
       "pj": 27,
       "g": 14,
@@ -258,7 +256,7 @@
       "dif": 2
     },
     {
-      "club": "Cienciano",
+      "club": "Cienciano Cienciano",
       "pts": 44,
       "pj": 28,
       "g": 13,
@@ -269,7 +267,7 @@
       "dif": 8
     },
     {
-      "club": "Los Chankas",
+      "club": "Los Chankas Los Chankas",
       "pts": 43,
       "pj": 28,
       "g": 12,
@@ -280,7 +278,7 @@
       "dif": -9
     },
     {
-      "club": "A. Atlético",
+      "club": "Alianza Atlético A. Atlético",
       "pts": 40,
       "pj": 27,
       "g": 11,
@@ -291,7 +289,7 @@
       "dif": 5
     },
     {
-      "club": "Cristal",
+      "club": "Sporting Cristal Cristal",
       "pts": 38,
       "pj": 27,
       "g": 11,
@@ -302,7 +300,7 @@
       "dif": 8
     },
     {
-      "club": "S. Huancayo",
+      "club": "Sport Huancayo S. Huancayo",
       "pts": 35,
       "pj": 27,
       "g": 10,
@@ -313,7 +311,7 @@
       "dif": -7
     },
     {
-      "club": "Boys",
+      "club": "Sport Boys Boys",
       "pts": 34,
       "pj": 27,
       "g": 10,
@@ -324,7 +322,7 @@
       "dif": 3
     },
     {
-      "club": "Juan Pablo II",
+      "club": "Juan Pablo II Juan Pablo II",
       "pts": 34,
       "pj": 27,
       "g": 9,
@@ -335,7 +333,7 @@
       "dif": -10
     },
     {
-      "club": "Grau",
+      "club": "Atlético Grau Grau",
       "pts": 33,
       "pj": 28,
       "g": 9,
@@ -346,7 +344,7 @@
       "dif": -5
     },
     {
-      "club": "Comerciantes",
+      "club": "Comerciantes Unidos Comerciantes",
       "pts": 30,
       "pj": 27,
       "g": 7,
@@ -357,7 +355,7 @@
       "dif": -3
     },
     {
-      "club": "FC Cajamarca",
+      "club": "FC Cajamarca FC Cajamarca",
       "pts": 26,
       "pj": 27,
       "g": 7,
@@ -368,7 +366,7 @@
       "dif": -11
     },
     {
-      "club": "D. Moquegua",
+      "club": "Deportivo Moquegua D. Moquegua",
       "pts": 25,
       "pj": 28,
       "g": 6,
@@ -379,7 +377,7 @@
       "dif": -19
     },
     {
-      "club": "ADT",
+      "club": "ADT Tarma ADT",
       "pts": 24,
       "pj": 27,
       "g": 6,
@@ -390,7 +388,7 @@
       "dif": -13
     },
     {
-      "club": "UTC",
+      "club": "UTC Cajamarca UTC",
       "pts": 10,
       "pj": 27,
       "g": 4,
@@ -400,5 +398,7 @@
       "gc": 50,
       "dif": -18
     }
-  ]
+  ],
+  "updated": "2026-10-09T16:35:50-05:00",
+  "source": "https://www.futbolperuano.com/liga-1/"
 }
