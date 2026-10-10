@@ -3,13 +3,24 @@
     {
       "club": "Deportivo Garcilaso Garcilaso",
       "pts": 22,
-      "pj": 10,
+      "pj": 11,
       "g": 7,
       "e": 1,
-      "p": 2,
+      "p": 3,
       "gf": 18,
-      "gc": 6,
-      "dif": 12
+      "gc": 7,
+      "dif": 11
+    },
+    {
+      "club": "Sport Huancayo S. Huancayo",
+      "pts": 22,
+      "pj": 11,
+      "g": 7,
+      "e": 1,
+      "p": 3,
+      "gf": 17,
+      "gc": 13,
+      "dif": 4
     },
     {
       "club": "Universitario de Deportes Universitario",
@@ -42,17 +53,6 @@
       "p": 3,
       "gf": 20,
       "gc": 17,
-      "dif": 3
-    },
-    {
-      "club": "Sport Huancayo S. Huancayo",
-      "pts": 19,
-      "pj": 10,
-      "g": 6,
-      "e": 1,
-      "p": 3,
-      "gf": 16,
-      "gc": 13,
       "dif": 3
     },
     {
@@ -225,13 +225,13 @@
     {
       "club": "Deportivo Garcilaso Garcilaso",
       "pts": 48,
-      "pj": 27,
+      "pj": 28,
       "g": 14,
       "e": 6,
-      "p": 7,
+      "p": 8,
       "gf": 39,
-      "gc": 24,
-      "dif": 15
+      "gc": 25,
+      "dif": 14
     },
     {
       "club": "FBC Melgar Melgar",
@@ -301,14 +301,14 @@
     },
     {
       "club": "Sport Huancayo S. Huancayo",
-      "pts": 35,
-      "pj": 27,
-      "g": 10,
+      "pts": 38,
+      "pj": 28,
+      "g": 11,
       "e": 5,
       "p": 12,
-      "gf": 37,
+      "gf": 38,
       "gc": 44,
-      "dif": -7
+      "dif": -6
     },
     {
       "club": "Sport Boys Boys",
@@ -399,6 +399,6 @@
       "dif": -18
     }
   ],
-  "updated": "2026-10-09T19:47:43-05:00",
+  "updated": "2026-10-09T22:37:04-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
