@@ -1,6 +1,17 @@
 {
   "clausura": [
     {
+      "club": "Sporting Cristal Cristal",
+      "pts": 22,
+      "pj": 11,
+      "g": 7,
+      "e": 1,
+      "p": 3,
+      "gf": 21,
+      "gc": 10,
+      "dif": 11
+    },
+    {
       "club": "Deportivo Garcilaso Garcilaso",
       "pts": 22,
       "pj": 11,
@@ -54,17 +65,6 @@
       "gf": 18,
       "gc": 11,
       "dif": 7
-    },
-    {
-      "club": "Sporting Cristal Cristal",
-      "pts": 19,
-      "pj": 10,
-      "g": 6,
-      "e": 1,
-      "p": 3,
-      "gf": 20,
-      "gc": 10,
-      "dif": 10
     },
     {
       "club": "Alianza Atlético A. Atlético",
@@ -190,13 +190,13 @@
     {
       "club": "UTC Cajamarca UTC",
       "pts": 2,
-      "pj": 10,
+      "pj": 11,
       "g": 0,
       "e": 2,
-      "p": 8,
+      "p": 9,
       "gf": 11,
-      "gc": 24,
-      "dif": -13
+      "gc": 25,
+      "dif": -14
     }
   ],
   "acumulado": [
@@ -278,6 +278,17 @@
       "dif": -9
     },
     {
+      "club": "Sporting Cristal Cristal",
+      "pts": 41,
+      "pj": 28,
+      "g": 12,
+      "e": 5,
+      "p": 11,
+      "gf": 49,
+      "gc": 40,
+      "dif": 9
+    },
+    {
       "club": "Alianza Atlético A. Atlético",
       "pts": 40,
       "pj": 27,
@@ -287,17 +298,6 @@
       "gf": 40,
       "gc": 35,
       "dif": 5
-    },
-    {
-      "club": "Sporting Cristal Cristal",
-      "pts": 38,
-      "pj": 27,
-      "g": 11,
-      "e": 5,
-      "p": 11,
-      "gf": 48,
-      "gc": 40,
-      "dif": 8
     },
     {
       "club": "Sport Huancayo S. Huancayo",
@@ -311,6 +311,17 @@
       "dif": -6
     },
     {
+      "club": "Juan Pablo II Juan Pablo II",
+      "pts": 35,
+      "pj": 28,
+      "g": 9,
+      "e": 8,
+      "p": 11,
+      "gf": 43,
+      "gc": 53,
+      "dif": -10
+    },
+    {
       "club": "Sport Boys Boys",
       "pts": 34,
       "pj": 27,
@@ -320,17 +331,6 @@
       "gf": 29,
       "gc": 26,
       "dif": 3
-    },
-    {
-      "club": "Juan Pablo II Juan Pablo II",
-      "pts": 34,
-      "pj": 27,
-      "g": 9,
-      "e": 7,
-      "p": 11,
-      "gf": 42,
-      "gc": 52,
-      "dif": -10
     },
     {
       "club": "Atlético Grau Grau",
@@ -345,13 +345,13 @@
     },
     {
       "club": "Comerciantes Unidos Comerciantes",
-      "pts": 30,
-      "pj": 27,
+      "pts": 31,
+      "pj": 28,
       "g": 7,
-      "e": 9,
+      "e": 10,
       "p": 11,
-      "gf": 35,
-      "gc": 38,
+      "gf": 36,
+      "gc": 39,
       "dif": -3
     },
     {
@@ -390,15 +390,15 @@
     {
       "club": "UTC Cajamarca UTC",
       "pts": 10,
-      "pj": 27,
+      "pj": 28,
       "g": 4,
       "e": 8,
-      "p": 15,
+      "p": 16,
       "gf": 32,
-      "gc": 50,
-      "dif": -18
+      "gc": 51,
+      "dif": -19
     }
   ],
-  "updated": "2026-10-11T13:39:43-05:00",
+  "updated": "2026-10-11T16:35:17-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
