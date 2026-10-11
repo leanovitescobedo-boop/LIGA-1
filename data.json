@@ -34,6 +34,17 @@
       "dif": 3
     },
     {
+      "club": "Juan Pablo II Juan Pablo II",
+      "pts": 19,
+      "pj": 11,
+      "g": 5,
+      "e": 4,
+      "p": 2,
+      "gf": 21,
+      "gc": 13,
+      "dif": 8
+    },
+    {
       "club": "Sporting Cristal Cristal",
       "pts": 19,
       "pj": 10,
@@ -54,17 +65,6 @@
       "gf": 20,
       "gc": 17,
       "dif": 3
-    },
-    {
-      "club": "Juan Pablo II Juan Pablo II",
-      "pts": 18,
-      "pj": 10,
-      "g": 5,
-      "e": 3,
-      "p": 2,
-      "gf": 20,
-      "gc": 12,
-      "dif": 8
     },
     {
       "club": "FBC Melgar Melgar",
@@ -145,13 +145,13 @@
     },
     {
       "club": "Comerciantes Unidos Comerciantes",
-      "pts": 9,
-      "pj": 10,
+      "pts": 10,
+      "pj": 11,
       "g": 2,
-      "e": 3,
+      "e": 4,
       "p": 5,
-      "gf": 17,
-      "gc": 18,
+      "gf": 18,
+      "gc": 19,
       "dif": -1
     },
     {
@@ -399,6 +399,6 @@
       "dif": -18
     }
   ],
-  "updated": "2026-10-10T16:34:06-05:00",
+  "updated": "2026-10-10T19:46:50-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
