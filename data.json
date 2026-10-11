@@ -24,13 +24,13 @@
     },
     {
       "club": "Universitario de Deportes Universitario",
-      "pts": 20,
-      "pj": 10,
+      "pts": 21,
+      "pj": 11,
       "g": 6,
-      "e": 2,
+      "e": 3,
       "p": 2,
-      "gf": 19,
-      "gc": 16,
+      "gf": 21,
+      "gc": 18,
       "dif": 3
     },
     {
@@ -43,6 +43,17 @@
       "gf": 21,
       "gc": 13,
       "dif": 8
+    },
+    {
+      "club": "FBC Melgar Melgar",
+      "pts": 19,
+      "pj": 11,
+      "g": 5,
+      "e": 4,
+      "p": 2,
+      "gf": 18,
+      "gc": 11,
+      "dif": 7
     },
     {
       "club": "Sporting Cristal Cristal",
@@ -65,17 +76,6 @@
       "gf": 20,
       "gc": 17,
       "dif": 3
-    },
-    {
-      "club": "FBC Melgar Melgar",
-      "pts": 18,
-      "pj": 10,
-      "g": 5,
-      "e": 3,
-      "p": 2,
-      "gf": 16,
-      "gc": 9,
-      "dif": 7
     },
     {
       "club": "Sport Boys Boys",
@@ -213,13 +213,13 @@
     },
     {
       "club": "Universitario de Deportes Universitario",
-      "pts": 49,
-      "pj": 27,
+      "pts": 50,
+      "pj": 28,
       "g": 14,
-      "e": 7,
+      "e": 8,
       "p": 6,
-      "gf": 43,
-      "gc": 31,
+      "gf": 45,
+      "gc": 33,
       "dif": 12
     },
     {
@@ -235,13 +235,13 @@
     },
     {
       "club": "FBC Melgar Melgar",
-      "pts": 46,
-      "pj": 27,
+      "pts": 47,
+      "pj": 28,
       "g": 13,
-      "e": 7,
+      "e": 8,
       "p": 7,
-      "gf": 45,
-      "gc": 29,
+      "gf": 47,
+      "gc": 31,
       "dif": 16
     },
     {
@@ -399,6 +399,6 @@
       "dif": -18
     }
   ],
-  "updated": "2026-10-10T19:46:50-05:00",
+  "updated": "2026-10-10T22:37:51-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
