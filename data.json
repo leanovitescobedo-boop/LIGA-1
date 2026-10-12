@@ -23,6 +23,17 @@
       "dif": 11
     },
     {
+      "club": "Alianza Atlético A. Atlético",
+      "pts": 22,
+      "pj": 11,
+      "g": 7,
+      "e": 1,
+      "p": 3,
+      "gf": 23,
+      "gc": 18,
+      "dif": 5
+    },
+    {
       "club": "Sport Huancayo S. Huancayo",
       "pts": 22,
       "pj": 11,
@@ -67,26 +78,15 @@
       "dif": 7
     },
     {
-      "club": "Alianza Atlético A. Atlético",
-      "pts": 19,
-      "pj": 10,
-      "g": 6,
-      "e": 1,
-      "p": 3,
-      "gf": 20,
-      "gc": 17,
-      "dif": 3
-    },
-    {
       "club": "Sport Boys Boys",
       "pts": 18,
-      "pj": 10,
+      "pj": 11,
       "g": 5,
       "e": 3,
-      "p": 2,
-      "gf": 14,
-      "gc": 7,
-      "dif": 7
+      "p": 3,
+      "gf": 15,
+      "gc": 10,
+      "dif": 5
     },
     {
       "club": "Cusco Fútbol Club Cusco FC",
@@ -267,6 +267,17 @@
       "dif": 8
     },
     {
+      "club": "Alianza Atlético A. Atlético",
+      "pts": 43,
+      "pj": 28,
+      "g": 12,
+      "e": 7,
+      "p": 9,
+      "gf": 43,
+      "gc": 36,
+      "dif": 7
+    },
+    {
       "club": "Los Chankas Los Chankas",
       "pts": 43,
       "pj": 28,
@@ -287,17 +298,6 @@
       "gf": 49,
       "gc": 40,
       "dif": 9
-    },
-    {
-      "club": "Alianza Atlético A. Atlético",
-      "pts": 40,
-      "pj": 27,
-      "g": 11,
-      "e": 7,
-      "p": 9,
-      "gf": 40,
-      "gc": 35,
-      "dif": 5
     },
     {
       "club": "Sport Huancayo S. Huancayo",
@@ -324,13 +324,13 @@
     {
       "club": "Sport Boys Boys",
       "pts": 34,
-      "pj": 27,
+      "pj": 28,
       "g": 10,
       "e": 8,
-      "p": 9,
-      "gf": 29,
-      "gc": 26,
-      "dif": 3
+      "p": 10,
+      "gf": 30,
+      "gc": 29,
+      "dif": 1
     },
     {
       "club": "Atlético Grau Grau",
@@ -399,6 +399,6 @@
       "dif": -19
     }
   ],
-  "updated": "2026-10-11T16:35:17-05:00",
+  "updated": "2026-10-11T19:49:36-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
