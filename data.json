@@ -1,6 +1,17 @@
 {
   "clausura": [
     {
+      "club": "Sport Huancayo S. Huancayo",
+      "pts": 25,
+      "pj": 12,
+      "g": 8,
+      "e": 1,
+      "p": 3,
+      "gf": 19,
+      "gc": 14,
+      "dif": 5
+    },
+    {
       "club": "Sporting Cristal Cristal",
       "pts": 22,
       "pj": 11,
@@ -32,17 +43,6 @@
       "gf": 23,
       "gc": 18,
       "dif": 5
-    },
-    {
-      "club": "Sport Huancayo S. Huancayo",
-      "pts": 22,
-      "pj": 11,
-      "g": 7,
-      "e": 1,
-      "p": 3,
-      "gf": 17,
-      "gc": 13,
-      "dif": 4
     },
     {
       "club": "Universitario de Deportes Universitario",
@@ -102,13 +102,13 @@
     {
       "club": "Cusco Fútbol Club Cusco FC",
       "pts": 18,
-      "pj": 11,
+      "pj": 12,
       "g": 6,
       "e": 0,
-      "p": 5,
-      "gf": 20,
-      "gc": 16,
-      "dif": 4
+      "p": 6,
+      "gf": 21,
+      "gc": 18,
+      "dif": 3
     },
     {
       "club": "Atlético Grau Grau",
@@ -247,13 +247,13 @@
     {
       "club": "Cusco Fútbol Club Cusco FC",
       "pts": 45,
-      "pj": 28,
+      "pj": 29,
       "g": 14,
       "e": 3,
-      "p": 11,
-      "gf": 41,
-      "gc": 40,
-      "dif": 1
+      "p": 12,
+      "gf": 42,
+      "gc": 42,
+      "dif": 0
     },
     {
       "club": "Cienciano Cienciano",
@@ -301,14 +301,14 @@
     },
     {
       "club": "Sport Huancayo S. Huancayo",
-      "pts": 38,
-      "pj": 28,
-      "g": 11,
+      "pts": 41,
+      "pj": 29,
+      "g": 12,
       "e": 5,
       "p": 12,
-      "gf": 38,
-      "gc": 44,
-      "dif": -6
+      "gf": 40,
+      "gc": 45,
+      "dif": -5
     },
     {
       "club": "Juan Pablo II Juan Pablo II",
@@ -399,6 +399,6 @@
       "dif": -19
     }
   ],
-  "updated": "2026-10-16T13:57:36-05:00",
+  "updated": "2026-10-16T16:49:32-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
