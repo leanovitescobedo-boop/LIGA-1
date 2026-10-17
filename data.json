@@ -122,6 +122,17 @@
       "dif": 1
     },
     {
+      "club": "Los Chankas Los Chankas",
+      "pts": 12,
+      "pj": 12,
+      "g": 3,
+      "e": 3,
+      "p": 6,
+      "gf": 13,
+      "gc": 25,
+      "dif": -12
+    },
+    {
       "club": "Cienciano Cienciano",
       "pts": 11,
       "pj": 11,
@@ -155,17 +166,6 @@
       "dif": -1
     },
     {
-      "club": "Los Chankas Los Chankas",
-      "pts": 9,
-      "pj": 11,
-      "g": 2,
-      "e": 3,
-      "p": 6,
-      "gf": 11,
-      "gc": 24,
-      "dif": -13
-    },
-    {
       "club": "Deportivo Moquegua D. Moquegua",
       "pts": 7,
       "pj": 11,
@@ -179,13 +179,13 @@
     {
       "club": "ADT Tarma ADT",
       "pts": 6,
-      "pj": 11,
+      "pj": 12,
       "g": 1,
       "e": 3,
-      "p": 7,
-      "gf": 7,
-      "gc": 21,
-      "dif": -14
+      "p": 8,
+      "gf": 8,
+      "gc": 23,
+      "dif": -15
     },
     {
       "club": "UTC Cajamarca UTC",
@@ -245,6 +245,17 @@
       "dif": 16
     },
     {
+      "club": "Los Chankas Los Chankas",
+      "pts": 46,
+      "pj": 29,
+      "g": 13,
+      "e": 7,
+      "p": 9,
+      "gf": 38,
+      "gc": 46,
+      "dif": -8
+    },
+    {
       "club": "Cusco Fútbol Club Cusco FC",
       "pts": 45,
       "pj": 29,
@@ -276,17 +287,6 @@
       "gf": 43,
       "gc": 36,
       "dif": 7
-    },
-    {
-      "club": "Los Chankas Los Chankas",
-      "pts": 43,
-      "pj": 28,
-      "g": 12,
-      "e": 7,
-      "p": 9,
-      "gf": 36,
-      "gc": 45,
-      "dif": -9
     },
     {
       "club": "Sporting Cristal Cristal",
@@ -368,13 +368,13 @@
     {
       "club": "ADT Tarma ADT",
       "pts": 25,
-      "pj": 28,
+      "pj": 29,
       "g": 6,
       "e": 8,
-      "p": 14,
-      "gf": 29,
-      "gc": 42,
-      "dif": -13
+      "p": 15,
+      "gf": 30,
+      "gc": 44,
+      "dif": -14
     },
     {
       "club": "Deportivo Moquegua D. Moquegua",
@@ -399,6 +399,6 @@
       "dif": -19
     }
   ],
-  "updated": "2026-10-16T16:49:32-05:00",
+  "updated": "2026-10-16T20:02:14-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
