@@ -166,26 +166,26 @@
       "dif": -9
     },
     {
-      "club": "Deportivo Moquegua D. Moquegua",
+      "club": "ADT Tarma ADT",
       "pts": 10,
-      "pj": 13,
+      "pj": 14,
       "g": 2,
       "e": 4,
-      "p": 7,
-      "gf": 8,
-      "gc": 20,
-      "dif": -12
+      "p": 8,
+      "gf": 11,
+      "gc": 24,
+      "dif": -13
     },
     {
-      "club": "ADT Tarma ADT",
-      "pts": 7,
-      "pj": 13,
-      "g": 1,
+      "club": "Deportivo Moquegua D. Moquegua",
+      "pts": 10,
+      "pj": 14,
+      "g": 2,
       "e": 4,
       "p": 8,
-      "gf": 9,
-      "gc": 24,
-      "dif": -15
+      "gf": 8,
+      "gc": 22,
+      "dif": -14
     },
     {
       "club": "UTC Cajamarca UTC",
@@ -355,15 +355,26 @@
       "dif": -7
     },
     {
+      "club": "ADT Tarma ADT",
+      "pts": 29,
+      "pj": 31,
+      "g": 7,
+      "e": 9,
+      "p": 15,
+      "gf": 33,
+      "gc": 45,
+      "dif": -12
+    },
+    {
       "club": "Deportivo Moquegua D. Moquegua",
       "pts": 28,
-      "pj": 30,
+      "pj": 31,
       "g": 7,
       "e": 7,
-      "p": 16,
+      "p": 17,
       "gf": 25,
-      "gc": 44,
-      "dif": -19
+      "gc": 46,
+      "dif": -21
     },
     {
       "club": "FC Cajamarca FC Cajamarca",
@@ -374,17 +385,6 @@
       "p": 16,
       "gf": 43,
       "gc": 57,
-      "dif": -14
-    },
-    {
-      "club": "ADT Tarma ADT",
-      "pts": 26,
-      "pj": 30,
-      "g": 6,
-      "e": 9,
-      "p": 15,
-      "gf": 31,
-      "gc": 45,
       "dif": -14
     },
     {
@@ -399,6 +399,6 @@
       "dif": -21
     }
   ],
-  "updated": "2026-10-28T11:09:54-05:00",
+  "updated": "2026-10-28T14:12:28-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
