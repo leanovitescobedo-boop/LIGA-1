@@ -157,13 +157,13 @@
     {
       "club": "FC Cajamarca FC Cajamarca",
       "pts": 11,
-      "pj": 13,
+      "pj": 14,
       "g": 3,
       "e": 2,
-      "p": 8,
-      "gf": 20,
-      "gc": 29,
-      "dif": -9
+      "p": 9,
+      "gf": 21,
+      "gc": 32,
+      "dif": -11
     },
     {
       "club": "ADT Tarma ADT",
@@ -189,14 +189,14 @@
     },
     {
       "club": "UTC Cajamarca UTC",
-      "pts": 2,
-      "pj": 13,
-      "g": 0,
+      "pts": 5,
+      "pj": 14,
+      "g": 1,
       "e": 2,
       "p": 11,
-      "gf": 12,
-      "gc": 28,
-      "dif": -16
+      "gf": 15,
+      "gc": 29,
+      "dif": -14
     }
   ],
   "acumulado": [
@@ -379,26 +379,26 @@
     {
       "club": "FC Cajamarca FC Cajamarca",
       "pts": 26,
-      "pj": 30,
+      "pj": 31,
       "g": 7,
       "e": 7,
-      "p": 16,
-      "gf": 43,
-      "gc": 57,
-      "dif": -14
+      "p": 17,
+      "gf": 44,
+      "gc": 60,
+      "dif": -16
     },
     {
       "club": "UTC Cajamarca UTC",
-      "pts": 10,
-      "pj": 30,
-      "g": 4,
+      "pts": 13,
+      "pj": 31,
+      "g": 5,
       "e": 8,
       "p": 18,
-      "gf": 33,
-      "gc": 54,
-      "dif": -21
+      "gf": 36,
+      "gc": 55,
+      "dif": -19
     }
   ],
-  "updated": "2026-10-28T14:12:28-05:00",
+  "updated": "2026-10-28T16:57:33-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
