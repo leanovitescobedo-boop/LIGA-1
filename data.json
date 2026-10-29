@@ -113,24 +113,24 @@
     {
       "club": "Atlético Grau Grau",
       "pts": 18,
-      "pj": 13,
+      "pj": 14,
       "g": 5,
       "e": 3,
-      "p": 5,
+      "p": 6,
       "gf": 16,
-      "gc": 17,
-      "dif": -1
+      "gc": 20,
+      "dif": -4
     },
     {
       "club": "Cienciano Cienciano",
-      "pts": 14,
-      "pj": 13,
-      "g": 4,
+      "pts": 17,
+      "pj": 14,
+      "g": 5,
       "e": 2,
       "p": 7,
-      "gf": 16,
+      "gf": 19,
       "gc": 21,
-      "dif": -5
+      "dif": -2
     },
     {
       "club": "Comerciantes Unidos Comerciantes",
@@ -245,6 +245,17 @@
       "dif": 14
     },
     {
+      "club": "Cienciano Cienciano",
+      "pts": 50,
+      "pj": 31,
+      "g": 15,
+      "e": 5,
+      "p": 11,
+      "gf": 53,
+      "gc": 43,
+      "dif": 10
+    },
+    {
       "club": "Cusco Fútbol Club Cusco FC",
       "pts": 48,
       "pj": 30,
@@ -254,17 +265,6 @@
       "gf": 45,
       "gc": 43,
       "dif": 2
-    },
-    {
-      "club": "Cienciano Cienciano",
-      "pts": 47,
-      "pj": 30,
-      "g": 14,
-      "e": 5,
-      "p": 11,
-      "gf": 50,
-      "gc": 43,
-      "dif": 7
     },
     {
       "club": "Alianza Atlético A. Atlético",
@@ -346,13 +346,13 @@
     {
       "club": "Atlético Grau Grau",
       "pts": 34,
-      "pj": 30,
+      "pj": 31,
       "g": 9,
       "e": 7,
-      "p": 14,
+      "p": 15,
       "gf": 28,
-      "gc": 35,
-      "dif": -7
+      "gc": 38,
+      "dif": -10
     },
     {
       "club": "ADT Tarma ADT",
@@ -399,6 +399,6 @@
       "dif": -19
     }
   ],
-  "updated": "2026-10-28T20:21:38-05:00",
+  "updated": "2026-10-28T23:05:48-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
