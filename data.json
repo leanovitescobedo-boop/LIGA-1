@@ -90,14 +90,14 @@
     },
     {
       "club": "Cusco Fútbol Club Cusco FC",
-      "pts": 21,
-      "pj": 13,
-      "g": 7,
+      "pts": 24,
+      "pj": 14,
+      "g": 8,
       "e": 0,
       "p": 6,
-      "gf": 24,
+      "gf": 25,
       "gc": 19,
-      "dif": 5
+      "dif": 6
     },
     {
       "club": "Sport Boys Boys",
@@ -146,13 +146,13 @@
     {
       "club": "Los Chankas Los Chankas",
       "pts": 12,
-      "pj": 13,
+      "pj": 14,
       "g": 3,
       "e": 3,
-      "p": 7,
+      "p": 8,
       "gf": 14,
-      "gc": 29,
-      "dif": -15
+      "gc": 30,
+      "dif": -16
     },
     {
       "club": "FC Cajamarca FC Cajamarca",
@@ -245,6 +245,17 @@
       "dif": 14
     },
     {
+      "club": "Cusco Fútbol Club Cusco FC",
+      "pts": 51,
+      "pj": 31,
+      "g": 16,
+      "e": 3,
+      "p": 12,
+      "gf": 46,
+      "gc": 43,
+      "dif": 3
+    },
+    {
       "club": "Cienciano Cienciano",
       "pts": 50,
       "pj": 31,
@@ -254,17 +265,6 @@
       "gf": 53,
       "gc": 43,
       "dif": 10
-    },
-    {
-      "club": "Cusco Fútbol Club Cusco FC",
-      "pts": 48,
-      "pj": 30,
-      "g": 15,
-      "e": 3,
-      "p": 12,
-      "gf": 45,
-      "gc": 43,
-      "dif": 2
     },
     {
       "club": "Alianza Atlético A. Atlético",
@@ -280,13 +280,13 @@
     {
       "club": "Los Chankas Los Chankas",
       "pts": 46,
-      "pj": 30,
+      "pj": 31,
       "g": 13,
       "e": 7,
-      "p": 10,
+      "p": 11,
       "gf": 39,
-      "gc": 50,
-      "dif": -11
+      "gc": 51,
+      "dif": -12
     },
     {
       "club": "Sporting Cristal Cristal",
@@ -399,6 +399,6 @@
       "dif": -19
     }
   ],
-  "updated": "2026-10-29T14:14:21-05:00",
+  "updated": "2026-10-29T16:59:56-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
