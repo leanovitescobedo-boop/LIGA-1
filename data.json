@@ -25,13 +25,13 @@
     {
       "club": "Deportivo Garcilaso Garcilaso",
       "pts": 25,
-      "pj": 13,
+      "pj": 14,
       "g": 8,
       "e": 1,
-      "p": 4,
-      "gf": 24,
-      "gc": 12,
-      "dif": 12
+      "p": 5,
+      "gf": 26,
+      "gc": 15,
+      "dif": 11
     },
     {
       "club": "Juan Pablo II Juan Pablo II",
@@ -79,14 +79,14 @@
     },
     {
       "club": "Alianza Atlético A. Atlético",
-      "pts": 22,
-      "pj": 13,
-      "g": 7,
+      "pts": 25,
+      "pj": 14,
+      "g": 8,
       "e": 1,
       "p": 5,
-      "gf": 25,
-      "gc": 26,
-      "dif": -1
+      "gf": 28,
+      "gc": 28,
+      "dif": 0
     },
     {
       "club": "Cusco Fútbol Club Cusco FC",
@@ -236,13 +236,13 @@
     {
       "club": "Deportivo Garcilaso Garcilaso",
       "pts": 51,
-      "pj": 30,
+      "pj": 31,
       "g": 15,
       "e": 6,
-      "p": 9,
-      "gf": 45,
-      "gc": 30,
-      "dif": 15
+      "p": 10,
+      "gf": 47,
+      "gc": 33,
+      "dif": 14
     },
     {
       "club": "Cusco Fútbol Club Cusco FC",
@@ -265,6 +265,17 @@
       "gf": 50,
       "gc": 43,
       "dif": 7
+    },
+    {
+      "club": "Alianza Atlético A. Atlético",
+      "pts": 46,
+      "pj": 31,
+      "g": 13,
+      "e": 7,
+      "p": 11,
+      "gf": 48,
+      "gc": 46,
+      "dif": 2
     },
     {
       "club": "Los Chankas Los Chankas",
@@ -298,17 +309,6 @@
       "gf": 44,
       "gc": 48,
       "dif": -4
-    },
-    {
-      "club": "Alianza Atlético A. Atlético",
-      "pts": 43,
-      "pj": 30,
-      "g": 12,
-      "e": 7,
-      "p": 11,
-      "gf": 45,
-      "gc": 44,
-      "dif": 1
     },
     {
       "club": "Juan Pablo II Juan Pablo II",
@@ -399,6 +399,6 @@
       "dif": -19
     }
   ],
-  "updated": "2026-10-28T16:57:33-05:00",
+  "updated": "2026-10-28T20:21:38-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
