@@ -224,13 +224,13 @@
     },
     {
       "club": "FBC Melgar Melgar",
-      "pts": 53,
-      "pj": 30,
+      "pts": 54,
+      "pj": 31,
       "g": 15,
-      "e": 8,
+      "e": 9,
       "p": 7,
-      "gf": 53,
-      "gc": 34,
+      "gf": 54,
+      "gc": 35,
       "dif": 19
     },
     {
@@ -334,13 +334,13 @@
     },
     {
       "club": "Comerciantes Unidos Comerciantes",
-      "pts": 34,
-      "pj": 30,
+      "pts": 35,
+      "pj": 31,
       "g": 8,
-      "e": 10,
+      "e": 11,
       "p": 12,
-      "gf": 41,
-      "gc": 44,
+      "gf": 42,
+      "gc": 45,
       "dif": -3
     },
     {
@@ -399,6 +399,6 @@
       "dif": -19
     }
   ],
-  "updated": "2026-10-30T05:09:04-05:00",
+  "updated": "2026-10-30T08:19:14-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
