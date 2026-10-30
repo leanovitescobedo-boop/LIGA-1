@@ -1,6 +1,17 @@
 {
   "clausura": [
     {
+      "club": "Sporting Cristal Cristal",
+      "pts": 28,
+      "pj": 14,
+      "g": 9,
+      "e": 1,
+      "p": 4,
+      "gf": 29,
+      "gc": 17,
+      "dif": 12
+    },
+    {
       "club": "Sport Huancayo S. Huancayo",
       "pts": 28,
       "pj": 14,
@@ -45,17 +56,6 @@
       "dif": 9
     },
     {
-      "club": "Sporting Cristal Cristal",
-      "pts": 25,
-      "pj": 13,
-      "g": 8,
-      "e": 1,
-      "p": 4,
-      "gf": 26,
-      "gc": 15,
-      "dif": 11
-    },
-    {
       "club": "FBC Melgar Melgar",
       "pts": 25,
       "pj": 13,
@@ -69,13 +69,13 @@
     {
       "club": "Alianza Lima Alianza Lima",
       "pts": 25,
-      "pj": 13,
+      "pj": 14,
       "g": 7,
       "e": 4,
-      "p": 2,
-      "gf": 20,
-      "gc": 12,
-      "dif": 8
+      "p": 3,
+      "gf": 22,
+      "gc": 15,
+      "dif": 7
     },
     {
       "club": "Alianza Atlético A. Atlético",
@@ -203,13 +203,13 @@
     {
       "club": "Alianza Lima Alianza Lima",
       "pts": 65,
-      "pj": 30,
+      "pj": 31,
       "g": 19,
       "e": 8,
-      "p": 3,
-      "gf": 50,
-      "gc": 20,
-      "dif": 30
+      "p": 4,
+      "gf": 52,
+      "gc": 23,
+      "dif": 29
     },
     {
       "club": "Universitario de Deportes Universitario",
@@ -267,6 +267,17 @@
       "dif": 10
     },
     {
+      "club": "Sporting Cristal Cristal",
+      "pts": 47,
+      "pj": 31,
+      "g": 14,
+      "e": 5,
+      "p": 12,
+      "gf": 57,
+      "gc": 47,
+      "dif": 10
+    },
+    {
       "club": "Alianza Atlético A. Atlético",
       "pts": 46,
       "pj": 31,
@@ -287,17 +298,6 @@
       "gf": 39,
       "gc": 51,
       "dif": -12
-    },
-    {
-      "club": "Sporting Cristal Cristal",
-      "pts": 44,
-      "pj": 30,
-      "g": 13,
-      "e": 5,
-      "p": 12,
-      "gf": 54,
-      "gc": 45,
-      "dif": 9
     },
     {
       "club": "Sport Huancayo S. Huancayo",
@@ -399,6 +399,6 @@
       "dif": -19
     }
   ],
-  "updated": "2026-10-29T16:59:56-05:00",
+  "updated": "2026-10-29T20:24:41-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
