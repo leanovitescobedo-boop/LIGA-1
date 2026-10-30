@@ -34,6 +34,17 @@
       "dif": 9
     },
     {
+      "club": "FBC Melgar Melgar",
+      "pts": 26,
+      "pj": 14,
+      "g": 7,
+      "e": 5,
+      "p": 2,
+      "gf": 25,
+      "gc": 15,
+      "dif": 10
+    },
+    {
       "club": "Deportivo Garcilaso Garcilaso",
       "pts": 25,
       "pj": 14,
@@ -54,17 +65,6 @@
       "gf": 25,
       "gc": 16,
       "dif": 9
-    },
-    {
-      "club": "FBC Melgar Melgar",
-      "pts": 25,
-      "pj": 13,
-      "g": 7,
-      "e": 4,
-      "p": 2,
-      "gf": 24,
-      "gc": 14,
-      "dif": 10
     },
     {
       "club": "Alianza Lima Alianza Lima",
@@ -134,13 +134,13 @@
     },
     {
       "club": "Comerciantes Unidos Comerciantes",
-      "pts": 13,
-      "pj": 13,
+      "pts": 14,
+      "pj": 14,
       "g": 3,
-      "e": 4,
+      "e": 5,
       "p": 6,
-      "gf": 23,
-      "gc": 24,
+      "gf": 24,
+      "gc": 25,
       "dif": -1
     },
     {
@@ -399,6 +399,6 @@
       "dif": -19
     }
   ],
-  "updated": "2026-10-29T20:24:41-05:00",
+  "updated": "2026-10-29T23:07:22-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
