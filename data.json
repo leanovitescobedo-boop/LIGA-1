@@ -145,10 +145,10 @@
     },
     {
       "club": "Los Chankas Los Chankas",
-      "pts": 12,
-      "pj": 14,
+      "pts": 13,
+      "pj": 15,
       "g": 3,
-      "e": 3,
+      "e": 4,
       "p": 8,
       "gf": 14,
       "gc": 30,
@@ -166,6 +166,17 @@
       "dif": -11
     },
     {
+      "club": "Deportivo Moquegua D. Moquegua",
+      "pts": 11,
+      "pj": 15,
+      "g": 2,
+      "e": 5,
+      "p": 8,
+      "gf": 8,
+      "gc": 22,
+      "dif": -14
+    },
+    {
       "club": "ADT Tarma ADT",
       "pts": 10,
       "pj": 14,
@@ -175,17 +186,6 @@
       "gf": 11,
       "gc": 24,
       "dif": -13
-    },
-    {
-      "club": "Deportivo Moquegua D. Moquegua",
-      "pts": 10,
-      "pj": 14,
-      "g": 2,
-      "e": 4,
-      "p": 8,
-      "gf": 8,
-      "gc": 22,
-      "dif": -14
     },
     {
       "club": "UTC Cajamarca UTC",
@@ -290,10 +290,10 @@
     },
     {
       "club": "Los Chankas Los Chankas",
-      "pts": 46,
-      "pj": 31,
+      "pts": 47,
+      "pj": 32,
       "g": 13,
-      "e": 7,
+      "e": 8,
       "p": 11,
       "gf": 39,
       "gc": 51,
@@ -367,10 +367,10 @@
     },
     {
       "club": "Deportivo Moquegua D. Moquegua",
-      "pts": 28,
-      "pj": 31,
+      "pts": 29,
+      "pj": 32,
       "g": 7,
-      "e": 7,
+      "e": 8,
       "p": 17,
       "gf": 25,
       "gc": 46,
@@ -399,6 +399,6 @@
       "dif": -19
     }
   ],
-  "updated": "2026-11-01T10:52:39-05:00",
+  "updated": "2026-11-01T14:04:51-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
