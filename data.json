@@ -89,25 +89,25 @@
       "dif": 7
     },
     {
-      "club": "Cusco Fútbol Club Cusco FC",
+      "club": "Sport Boys Boys",
       "pts": 24,
       "pj": 14,
-      "g": 8,
-      "e": 0,
-      "p": 6,
-      "gf": 25,
-      "gc": 19,
+      "g": 7,
+      "e": 3,
+      "p": 4,
+      "gf": 20,
+      "gc": 14,
       "dif": 6
     },
     {
-      "club": "Sport Boys Boys",
-      "pts": 21,
-      "pj": 13,
-      "g": 6,
-      "e": 3,
-      "p": 4,
-      "gf": 19,
-      "gc": 14,
+      "club": "Cusco Fútbol Club Cusco FC",
+      "pts": 24,
+      "pj": 15,
+      "g": 8,
+      "e": 0,
+      "p": 7,
+      "gf": 25,
+      "gc": 20,
       "dif": 5
     },
     {
@@ -247,13 +247,13 @@
     {
       "club": "Cusco Fútbol Club Cusco FC",
       "pts": 51,
-      "pj": 31,
+      "pj": 32,
       "g": 16,
       "e": 3,
-      "p": 12,
+      "p": 13,
       "gf": 46,
-      "gc": 43,
-      "dif": 3
+      "gc": 44,
+      "dif": 2
     },
     {
       "club": "Cienciano Cienciano",
@@ -323,14 +323,14 @@
     },
     {
       "club": "Sport Boys Boys",
-      "pts": 37,
-      "pj": 30,
-      "g": 11,
+      "pts": 40,
+      "pj": 31,
+      "g": 12,
       "e": 8,
       "p": 11,
-      "gf": 34,
+      "gf": 35,
       "gc": 33,
-      "dif": 1
+      "dif": 2
     },
     {
       "club": "Comerciantes Unidos Comerciantes",
@@ -399,6 +399,6 @@
       "dif": -19
     }
   ],
-  "updated": "2026-11-01T14:04:51-05:00",
+  "updated": "2026-11-01T16:53:01-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
