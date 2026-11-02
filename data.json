@@ -1,6 +1,17 @@
 {
   "clausura": [
     {
+      "club": "Sport Huancayo S. Huancayo",
+      "pts": 31,
+      "pj": 15,
+      "g": 10,
+      "e": 1,
+      "p": 4,
+      "gf": 25,
+      "gc": 17,
+      "dif": 8
+    },
+    {
       "club": "Universitario de Deportes Universitario",
       "pts": 30,
       "pj": 14,
@@ -23,17 +34,6 @@
       "dif": 12
     },
     {
-      "club": "Sport Huancayo S. Huancayo",
-      "pts": 28,
-      "pj": 14,
-      "g": 9,
-      "e": 1,
-      "p": 4,
-      "gf": 23,
-      "gc": 17,
-      "dif": 6
-    },
-    {
       "club": "Alianza Atlético A. Atlético",
       "pts": 28,
       "pj": 15,
@@ -47,13 +47,13 @@
     {
       "club": "FBC Melgar Melgar",
       "pts": 26,
-      "pj": 14,
+      "pj": 15,
       "g": 7,
       "e": 5,
-      "p": 2,
+      "p": 3,
       "gf": 25,
-      "gc": 15,
-      "dif": 10
+      "gc": 17,
+      "dif": 8
     },
     {
       "club": "Deportivo Garcilaso Garcilaso",
@@ -225,13 +225,13 @@
     {
       "club": "FBC Melgar Melgar",
       "pts": 54,
-      "pj": 31,
+      "pj": 32,
       "g": 15,
       "e": 9,
-      "p": 7,
+      "p": 8,
       "gf": 54,
-      "gc": 35,
-      "dif": 19
+      "gc": 37,
+      "dif": 17
     },
     {
       "club": "Deportivo Garcilaso Garcilaso",
@@ -301,14 +301,14 @@
     },
     {
       "club": "Sport Huancayo S. Huancayo",
-      "pts": 44,
-      "pj": 31,
-      "g": 13,
+      "pts": 47,
+      "pj": 32,
+      "g": 14,
       "e": 5,
       "p": 13,
-      "gf": 44,
+      "gf": 46,
       "gc": 48,
-      "dif": -4
+      "dif": -2
     },
     {
       "club": "Juan Pablo II Juan Pablo II",
@@ -399,6 +399,6 @@
       "dif": -19
     }
   ],
-  "updated": "2026-11-02T11:20:55-05:00",
+  "updated": "2026-11-02T14:16:29-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
