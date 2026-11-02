@@ -23,6 +23,17 @@
       "dif": 11
     },
     {
+      "club": "Deportivo Garcilaso Garcilaso",
+      "pts": 28,
+      "pj": 15,
+      "g": 9,
+      "e": 1,
+      "p": 5,
+      "gf": 29,
+      "gc": 17,
+      "dif": 12
+    },
+    {
       "club": "Sporting Cristal Cristal",
       "pts": 28,
       "pj": 14,
@@ -54,17 +65,6 @@
       "gf": 25,
       "gc": 17,
       "dif": 8
-    },
-    {
-      "club": "Deportivo Garcilaso Garcilaso",
-      "pts": 25,
-      "pj": 14,
-      "g": 8,
-      "e": 1,
-      "p": 5,
-      "gf": 26,
-      "gc": 15,
-      "dif": 11
     },
     {
       "club": "Juan Pablo II Juan Pablo II",
@@ -190,13 +190,13 @@
     {
       "club": "UTC Cajamarca UTC",
       "pts": 5,
-      "pj": 14,
+      "pj": 15,
       "g": 1,
       "e": 2,
-      "p": 11,
-      "gf": 15,
-      "gc": 29,
-      "dif": -14
+      "p": 12,
+      "gf": 17,
+      "gc": 32,
+      "dif": -15
     }
   ],
   "acumulado": [
@@ -235,14 +235,14 @@
     },
     {
       "club": "Deportivo Garcilaso Garcilaso",
-      "pts": 51,
-      "pj": 31,
-      "g": 15,
+      "pts": 54,
+      "pj": 32,
+      "g": 16,
       "e": 6,
       "p": 10,
-      "gf": 47,
-      "gc": 33,
-      "dif": 14
+      "gf": 50,
+      "gc": 35,
+      "dif": 15
     },
     {
       "club": "Cusco Fútbol Club Cusco FC",
@@ -390,15 +390,15 @@
     {
       "club": "UTC Cajamarca UTC",
       "pts": 13,
-      "pj": 31,
+      "pj": 32,
       "g": 5,
       "e": 8,
-      "p": 18,
-      "gf": 36,
-      "gc": 55,
-      "dif": -19
+      "p": 19,
+      "gf": 38,
+      "gc": 58,
+      "dif": -20
     }
   ],
-  "updated": "2026-11-02T14:16:29-05:00",
+  "updated": "2026-11-02T16:58:20-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
