@@ -134,13 +134,13 @@
     },
     {
       "club": "Comerciantes Unidos Comerciantes",
-      "pts": 14,
-      "pj": 14,
+      "pts": 15,
+      "pj": 15,
       "g": 3,
-      "e": 5,
+      "e": 6,
       "p": 6,
-      "gf": 24,
-      "gc": 25,
+      "gf": 26,
+      "gc": 27,
       "dif": -1
     },
     {
@@ -153,6 +153,17 @@
       "gf": 14,
       "gc": 30,
       "dif": -16
+    },
+    {
+      "club": "ADT Tarma ADT",
+      "pts": 11,
+      "pj": 15,
+      "g": 2,
+      "e": 5,
+      "p": 8,
+      "gf": 13,
+      "gc": 26,
+      "dif": -13
     },
     {
       "club": "Deportivo Moquegua D. Moquegua",
@@ -175,17 +186,6 @@
       "gf": 21,
       "gc": 37,
       "dif": -16
-    },
-    {
-      "club": "ADT Tarma ADT",
-      "pts": 10,
-      "pj": 14,
-      "g": 2,
-      "e": 4,
-      "p": 8,
-      "gf": 11,
-      "gc": 24,
-      "dif": -13
     },
     {
       "club": "UTC Cajamarca UTC",
@@ -334,13 +334,13 @@
     },
     {
       "club": "Comerciantes Unidos Comerciantes",
-      "pts": 35,
-      "pj": 31,
+      "pts": 36,
+      "pj": 32,
       "g": 8,
-      "e": 11,
+      "e": 12,
       "p": 12,
-      "gf": 42,
-      "gc": 45,
+      "gf": 44,
+      "gc": 47,
       "dif": -3
     },
     {
@@ -356,13 +356,13 @@
     },
     {
       "club": "ADT Tarma ADT",
-      "pts": 29,
-      "pj": 31,
+      "pts": 30,
+      "pj": 32,
       "g": 7,
-      "e": 9,
+      "e": 10,
       "p": 15,
-      "gf": 33,
-      "gc": 45,
+      "gf": 35,
+      "gc": 47,
       "dif": -12
     },
     {
@@ -399,6 +399,6 @@
       "dif": -20
     }
   ],
-  "updated": "2026-11-03T14:15:46-05:00",
+  "updated": "2026-11-03T17:04:07-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
