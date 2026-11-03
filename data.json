@@ -1,6 +1,17 @@
 {
   "clausura": [
     {
+      "club": "Sporting Cristal Cristal",
+      "pts": 31,
+      "pj": 15,
+      "g": 10,
+      "e": 1,
+      "p": 4,
+      "gf": 34,
+      "gc": 17,
+      "dif": 17
+    },
+    {
       "club": "Sport Huancayo S. Huancayo",
       "pts": 31,
       "pj": 15,
@@ -29,17 +40,6 @@
       "g": 9,
       "e": 1,
       "p": 5,
-      "gf": 29,
-      "gc": 17,
-      "dif": 12
-    },
-    {
-      "club": "Sporting Cristal Cristal",
-      "pts": 28,
-      "pj": 14,
-      "g": 9,
-      "e": 1,
-      "p": 4,
       "gf": 29,
       "gc": 17,
       "dif": 12
@@ -155,17 +155,6 @@
       "dif": -16
     },
     {
-      "club": "FC Cajamarca FC Cajamarca",
-      "pts": 11,
-      "pj": 14,
-      "g": 3,
-      "e": 2,
-      "p": 9,
-      "gf": 21,
-      "gc": 32,
-      "dif": -11
-    },
-    {
       "club": "Deportivo Moquegua D. Moquegua",
       "pts": 11,
       "pj": 15,
@@ -175,6 +164,17 @@
       "gf": 8,
       "gc": 22,
       "dif": -14
+    },
+    {
+      "club": "FC Cajamarca FC Cajamarca",
+      "pts": 11,
+      "pj": 15,
+      "g": 3,
+      "e": 2,
+      "p": 10,
+      "gf": 21,
+      "gc": 37,
+      "dif": -16
     },
     {
       "club": "ADT Tarma ADT",
@@ -256,6 +256,17 @@
       "dif": 2
     },
     {
+      "club": "Sporting Cristal Cristal",
+      "pts": 50,
+      "pj": 32,
+      "g": 15,
+      "e": 5,
+      "p": 12,
+      "gf": 62,
+      "gc": 47,
+      "dif": 15
+    },
+    {
       "club": "Cienciano Cienciano",
       "pts": 50,
       "pj": 31,
@@ -276,17 +287,6 @@
       "gf": 49,
       "gc": 46,
       "dif": 3
-    },
-    {
-      "club": "Sporting Cristal Cristal",
-      "pts": 47,
-      "pj": 31,
-      "g": 14,
-      "e": 5,
-      "p": 12,
-      "gf": 57,
-      "gc": 47,
-      "dif": 10
     },
     {
       "club": "Los Chankas Los Chankas",
@@ -379,13 +379,13 @@
     {
       "club": "FC Cajamarca FC Cajamarca",
       "pts": 26,
-      "pj": 31,
+      "pj": 32,
       "g": 7,
       "e": 7,
-      "p": 17,
+      "p": 18,
       "gf": 44,
-      "gc": 60,
-      "dif": -16
+      "gc": 65,
+      "dif": -21
     },
     {
       "club": "UTC Cajamarca UTC",
@@ -399,6 +399,6 @@
       "dif": -20
     }
   ],
-  "updated": "2026-11-02T16:58:20-05:00",
+  "updated": "2026-11-02T20:27:32-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
