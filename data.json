@@ -12,6 +12,17 @@
       "dif": 17
     },
     {
+      "club": "Universitario de Deportes Universitario",
+      "pts": 31,
+      "pj": 15,
+      "g": 9,
+      "e": 4,
+      "p": 2,
+      "gf": 33,
+      "gc": 22,
+      "dif": 11
+    },
+    {
       "club": "Sport Huancayo S. Huancayo",
       "pts": 31,
       "pj": 15,
@@ -21,17 +32,6 @@
       "gf": 25,
       "gc": 17,
       "dif": 8
-    },
-    {
-      "club": "Universitario de Deportes Universitario",
-      "pts": 30,
-      "pj": 14,
-      "g": 9,
-      "e": 3,
-      "p": 2,
-      "gf": 31,
-      "gc": 20,
-      "dif": 11
     },
     {
       "club": "Deportivo Garcilaso Garcilaso",
@@ -90,13 +90,13 @@
     },
     {
       "club": "Sport Boys Boys",
-      "pts": 24,
-      "pj": 14,
+      "pts": 25,
+      "pj": 15,
       "g": 7,
-      "e": 3,
+      "e": 4,
       "p": 4,
-      "gf": 20,
-      "gc": 14,
+      "gf": 22,
+      "gc": 16,
       "dif": 6
     },
     {
@@ -213,13 +213,13 @@
     },
     {
       "club": "Universitario de Deportes Universitario",
-      "pts": 59,
-      "pj": 31,
+      "pts": 60,
+      "pj": 32,
       "g": 17,
-      "e": 8,
+      "e": 9,
       "p": 6,
-      "gf": 55,
-      "gc": 35,
+      "gf": 57,
+      "gc": 37,
       "dif": 20
     },
     {
@@ -311,6 +311,17 @@
       "dif": -2
     },
     {
+      "club": "Sport Boys Boys",
+      "pts": 41,
+      "pj": 32,
+      "g": 12,
+      "e": 9,
+      "p": 11,
+      "gf": 37,
+      "gc": 35,
+      "dif": 2
+    },
+    {
       "club": "Juan Pablo II Juan Pablo II",
       "pts": 41,
       "pj": 32,
@@ -320,17 +331,6 @@
       "gf": 47,
       "gc": 57,
       "dif": -10
-    },
-    {
-      "club": "Sport Boys Boys",
-      "pts": 40,
-      "pj": 31,
-      "g": 12,
-      "e": 8,
-      "p": 11,
-      "gf": 35,
-      "gc": 33,
-      "dif": 2
     },
     {
       "club": "Comerciantes Unidos Comerciantes",
@@ -399,6 +399,6 @@
       "dif": -20
     }
   ],
-  "updated": "2026-11-04T20:30:09-05:00",
+  "updated": "2026-11-04T23:16:41-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
