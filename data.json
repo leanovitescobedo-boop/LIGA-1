@@ -2,13 +2,13 @@
   "clausura": [
     {
       "club": "Sporting Cristal Cristal",
-      "pts": 31,
-      "pj": 15,
+      "pts": 32,
+      "pj": 16,
       "g": 10,
-      "e": 1,
+      "e": 2,
       "p": 4,
-      "gf": 34,
-      "gc": 17,
+      "gf": 35,
+      "gc": 18,
       "dif": 17
     },
     {
@@ -156,13 +156,13 @@
     },
     {
       "club": "ADT Tarma ADT",
-      "pts": 11,
-      "pj": 15,
+      "pts": 12,
+      "pj": 16,
       "g": 2,
-      "e": 5,
+      "e": 6,
       "p": 8,
-      "gf": 13,
-      "gc": 26,
+      "gf": 14,
+      "gc": 27,
       "dif": -13
     },
     {
@@ -245,6 +245,17 @@
       "dif": 15
     },
     {
+      "club": "Sporting Cristal Cristal",
+      "pts": 51,
+      "pj": 33,
+      "g": 15,
+      "e": 6,
+      "p": 12,
+      "gf": 63,
+      "gc": 48,
+      "dif": 15
+    },
+    {
       "club": "Cusco Fútbol Club Cusco FC",
       "pts": 51,
       "pj": 33,
@@ -254,17 +265,6 @@
       "gf": 46,
       "gc": 47,
       "dif": -1
-    },
-    {
-      "club": "Sporting Cristal Cristal",
-      "pts": 50,
-      "pj": 32,
-      "g": 15,
-      "e": 5,
-      "p": 12,
-      "gf": 62,
-      "gc": 47,
-      "dif": 15
     },
     {
       "club": "Cienciano Cienciano",
@@ -356,13 +356,13 @@
     },
     {
       "club": "ADT Tarma ADT",
-      "pts": 30,
-      "pj": 32,
+      "pts": 31,
+      "pj": 33,
       "g": 7,
-      "e": 10,
+      "e": 11,
       "p": 15,
-      "gf": 35,
-      "gc": 47,
+      "gf": 36,
+      "gc": 48,
       "dif": -12
     },
     {
@@ -399,6 +399,6 @@
       "dif": -20
     }
   ],
-  "updated": "2026-11-07T14:07:05-05:00",
+  "updated": "2026-11-07T16:53:39-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
