@@ -23,6 +23,17 @@
       "dif": 17
     },
     {
+      "club": "Alianza Lima Alianza Lima",
+      "pts": 32,
+      "pj": 17,
+      "g": 9,
+      "e": 5,
+      "p": 3,
+      "gf": 29,
+      "gc": 16,
+      "dif": 13
+    },
+    {
       "club": "Universitario de Deportes Universitario",
       "pts": 32,
       "pj": 16,
@@ -65,17 +76,6 @@
       "gf": 30,
       "gc": 31,
       "dif": -1
-    },
-    {
-      "club": "Alianza Lima Alianza Lima",
-      "pts": 29,
-      "pj": 16,
-      "g": 8,
-      "e": 5,
-      "p": 3,
-      "gf": 24,
-      "gc": 16,
-      "dif": 8
     },
     {
       "club": "Sport Boys Boys",
@@ -157,13 +157,13 @@
     {
       "club": "FC Cajamarca FC Cajamarca",
       "pts": 14,
-      "pj": 16,
+      "pj": 17,
       "g": 4,
       "e": 2,
-      "p": 10,
-      "gf": 23,
-      "gc": 37,
-      "dif": -14
+      "p": 11,
+      "gf": 12,
+      "gc": 30,
+      "dif": -18
     },
     {
       "club": "Los Chankas Los Chankas",
@@ -202,14 +202,14 @@
   "acumulado": [
     {
       "club": "Alianza Lima Alianza Lima",
-      "pts": 69,
-      "pj": 33,
-      "g": 20,
+      "pts": 72,
+      "pj": 34,
+      "g": 21,
       "e": 9,
       "p": 4,
-      "gf": 54,
+      "gf": 59,
       "gc": 24,
-      "dif": 30
+      "dif": 35
     },
     {
       "club": "Universitario de Deportes Universitario",
@@ -379,13 +379,13 @@
     {
       "club": "FC Cajamarca FC Cajamarca",
       "pts": 29,
-      "pj": 33,
+      "pj": 34,
       "g": 8,
       "e": 7,
-      "p": 18,
+      "p": 19,
       "gf": 46,
-      "gc": 65,
-      "dif": -19
+      "gc": 70,
+      "dif": -24
     },
     {
       "club": "UTC Cajamarca UTC",
@@ -399,6 +399,6 @@
       "dif": -17
     }
   ],
-  "updated": "2026-11-21T14:28:35-05:00",
+  "updated": "2026-11-21T20:25:13-05:00",
   "source": "https://www.futbolperuano.com/liga-1/"
 }
